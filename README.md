@@ -21,7 +21,7 @@ DataTable Features
 
 # My Approach
 
-For this assignment, I tried to keep the code simple, clean, and easy to scale. I used React, TypeScript, and TailwindCSS for building the UI components. Storybook was added for documentation and for testing different states of the components quickly.
+I tried to keep the code simple, clean, and easy to scale. I used React, TypeScript, and TailwindCSS for building the UI components. Storybook was added for documentation and for testing different states of the components quickly.
 
 <h3>InputField Component</h3>
 
